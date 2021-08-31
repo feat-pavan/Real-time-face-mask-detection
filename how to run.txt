@@ -1,0 +1,22 @@
+Step 1:
+	download anaconda navigator and install
+Step 2:
+	cerate a separate environment (conda) AND name it as TENSORFLOW
+Step 3:
+	after creating tensorflow envirnment download the library 
+	by running pip install -r requirements.txt in anaconda prompt 
+Step 4:
+	after successfull installation of library use sublime editor or spider 
+	for runnig the code 
+Step 5:
+	create mysql database and run "personaldb" sql file in mysql.
+Step 6:
+	download and paste the code folder in the c drive and open the file and open "detect.py" file
+	and replace the user name and password for mysql
+Step 7:
+	finally run detect file 
+Step 8:
+	first run train.py if you dont have time then use existing model "mask_detector.model" if you run train.py file then delete existing model
+ 
+--------------------------That all Thank you-----------------------------------------------
+ for any query text me.
